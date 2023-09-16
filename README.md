@@ -101,7 +101,7 @@
 </p>
 
 <figure>
-  <figcaption align="center"><i>$\log\left( Size\:\:of\:\:the\:\:giant\:\:component \right)$$ vs. $$\log\left( Side\:\:length\:\:of\:\:the\:\:square\:\:corresponding\:\:the\:\:land \right)$</i></figcaption>
+  <figcaption align="center"><i>$log (Size of the giant component) vs. log ( Side length of the square corresponding the land)$</i></figcaption>
   <p align="center"> 
     <img src="images/Giant Component.png" alt="Giant Component" height="648px" width="1102px">
   </p>
