@@ -87,7 +87,7 @@
 <p align="justify"> 
   In this project, we simulate wildfires with various properties such as vegetation density, wind, field size, and more, using NetLogo. Our objective is to estimate a critical density at which the following ratio changes significantly:
 
-  $$\frac{\log\left( Size\:\:of\:\:the\:\:giant\:\:component \right)}{\log\left( Side\:\:length\:\:of\:\:the\:\:square\:\:corresponding\:\:the\:\:land \right)}$$
+  $\frac{\log\left( Size\:\:of\:\:the\:\:giant\:\:component \right)}{\log\left( Side\:\:length\:\:of\:\:the\:\:square\:\:corresponding\:\:the\:\:land \right)}$
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
