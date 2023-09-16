@@ -153,15 +153,19 @@ height="382px" width="737px"
 <!-- CREDITS -->
 <h2 id="credits"> 📜 Credits</h2>
 
+<a href="https://aghababaeisamani.iut.ac.ir/">Prof. K. Aghababaei Samani</a>
+
+<a href="https://shahbazi.iut.ac.ir/">Prof. F. Shahbazi</a>
+
 Alireza Abrehforoush
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alireza-Abrehforoush)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-abrehforoush-b6815b19b/)
 
-
 <a href="https://ir.linkedin.com/in/kavyan-zare-97094b210">Kavyan Zare</a>
 
 <a href="https://ir.linkedin.com/in/ava-moknatjoo-22a60220b">Ava Moknatjoo</a>
+
 
 <!-- Acknowledgements: Based on UC Berkeley's Pacman AI project, <a href="http://ai.berkeley.edu">http://ai.berkeley.edu</a> -->
 
