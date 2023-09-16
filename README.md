@@ -97,19 +97,19 @@
 <h2 id="results"> 🎉 Results</h2>
 
 <p align="justify"> 
-  After extracting data from the simulation, we plotted the following graphs. The first graph demonstrates that at approximately 60 percent density, the size of the giant component exhibits a higher growth rate.
+  After extracting data from the simulation, we plotted the following graphs. The first graph demonstrates that at approximately 60 percent density, the size of the giant component exhibits a higher growth rate and the fractal dimension becomes 2.
 </p>
 
 <figure>
-  <figcaption align="center"><i>$log (Size of the giant component) vs. log ( Side length of the square corresponding the land)$</i></figcaption>
+  <figcaption align="center"><i>log (Size of the giant component) vs. log (Side length of the square corresponding the land)</i></figcaption>
   <p align="center"> 
     <img src="images/Giant Component.png" alt="Giant Component" height="648px" width="1102px">
   </p>
 </figure>
 
-Also, there are some other graphs as follows:
+Also, an initial graph was plotted to demonstrate the uniqueness of the behavior of fractal dimension:
 <figure>
-  <figcaption align="center"><i>Population of Burned Trees</i></figcaption>
+  <figcaption align="center"><i>log (Population of Burned Trees) vs. log (Side length of the square corresponding the land)</i></figcaption>
   <p align="center"> 
     <img src="images/Population of Burned Trees.png" alt="Population of Burned Trees" height="648px" width="1102px">
   </p>
@@ -131,7 +131,7 @@ height="382px" width="737px"
 
 
 <!-- REFERENCES -->
-<h2 id="References"> 🌏 References</h2>
+<h2 id="references"> 🌏 References</h2>
 
 [1] Wikipedia contributors. (2023, June 22). Percolation. In Wikipedia, The Free Encyclopedia. Retrieved 20:14, August 26, 2023, from https://en.wikipedia.org/w/index.php?title=Percolation&oldid=1161443767
 
@@ -151,7 +151,7 @@ height="382px" width="737px"
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- CREDITS -->
-<h2 id="Credits"> 📜 Credits</h2>
+<h2 id="credits"> 📜 Credits</h2>
 
 Alireza Abrehforoush
 
