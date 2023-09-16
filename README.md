@@ -6,7 +6,7 @@
 <h5 align="center"> Final Project - <a href="https://english.iut.ac.ir/">Isfahan University of Technology</a> (Summer 2023) </h5>
 
 <p align="center"> 
-  <img src="view.png" alt="Screenshot of the land in the NetLogo simulator" height="568px" width="1128px">
+  <img src="images/view.png" alt="Screenshot of the land in the NetLogo simulator" height="568px" width="1128px">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -103,7 +103,7 @@
 <figure>
   <figcaption align="center"><i>$$\log\left( Size\:\:of\:\:the\:\:giant\:\:component \right)$$ vs. $$\log\left( Side\:\:length\:\:of\:\:the\:\:square\:\:corresponding\:\:the\:\:land \right)$$</i></figcaption>
   <p align="center"> 
-    <img src="Giant Component.png" alt="Giant Component" height="648px" width="1102px">
+    <img src="images/Giant Component.png" alt="Giant Component" height="648px" width="1102px">
   </p>
 </figure>
 
@@ -111,7 +111,7 @@ Also, there are some other graphs as follows:
 <figure>
   <figcaption align="center"><i>Population of Burned Trees</i></figcaption>
   <p align="center"> 
-    <img src="Population of Burned Trees.png" alt="Population of Burned Trees" height="648px" width="1102px">
+    <img src="images/Population of Burned Trees.png" alt="Population of Burned Trees" height="648px" width="1102px">
   </p>
 </figure>
 
