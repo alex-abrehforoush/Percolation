@@ -32,11 +32,11 @@
 <p align="justify">
   Percolation theory in statistical physics describes the behavior of a network when nodes or links are added with a definite probability and we want to explore how a signal spreads through the network. We will explore phase transition in this model in what follows (In particular, site percolation in a 2D lattice).
   
-  Fractal dimension is a measure of the complexity of a fractal pattern, describing how the pattern fills space at different scales. It is a way to quantify irregular or self-similar structures that exhibit intricate detail regardless of the level of magnification. The fractal dimension in this context, often denoted as $d_f$​, characterizes the behavior of the giant component's size $$S$$ as a function of the system size $$L$$. When the system is close to the percolation threshold, the relationship can be expressed as:
+  Fractal dimension is a measure of the complexity of a fractal pattern, describing how the pattern fills space at different scales. It is a way to quantify irregular or self-similar structures that exhibit intricate detail regardless of the level of magnification. The fractal dimension in this context, often denoted as $d_f$​, characterizes the behavior of the giant component's size $S$ as a function of the system size $L$. When the system is close to the percolation threshold, the relationship can be expressed as:
 
   $$S \propto L ^ {d_f}$$
 
-  Where $$d_f$$​ is the fractal dimension we are trying to determine. This dimension captures the scaling behavior of the giant component as the system size increases.
+  Where $d_f$​ is the fractal dimension we are trying to determine. This dimension captures the scaling behavior of the giant component as the system size increases.
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
